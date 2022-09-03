@@ -8,7 +8,7 @@
 
 #### I am a full stack software developer in training! ⚡💪
 
-**About me**: I will add this part in due time
+**About me**: I am a full stack software developer, trained and refined at [microverse.org](https://www.microverse.org/?grsf=swf84s), an online school that is committed to creating the next generation of skilled, ethical and diverse full stack developers while bridging the gap between the developed and developing territories of the globe. I am a problem solver at the core, with excellent communication and collaboration skills and capable of working in a team of different people from different cultures while being both professionally informal and formal. I am determined, focused and disciplined but of course I know when it's time to relax and have a beer with a friend! 🍻 
 
 <br />
 
