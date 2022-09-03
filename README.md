@@ -17,7 +17,7 @@
 - 🤔 I’m looking for help with Bootstrap and Sass
 - 💬 Ask me about anything!
 - 😄 Pronouns: He/him 🤝
-- ⚡ Fun fact: I am crazy good on the piano 🎹
+- ⚡ Fun fact: I am a crazy good table tennis player 🏓
 
 <br />
 
