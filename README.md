@@ -9,3 +9,4 @@
 - 😄 Pronouns: He/him 🤝
 - ⚡ Fun fact: I am crazy good on the piano 🎹
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amon-cofie)](https://github.com/anuraghazra/github-readme-stats)
