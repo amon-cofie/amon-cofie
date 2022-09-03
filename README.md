@@ -1,6 +1,6 @@
 # My name is David! 
 
-![I am a full stack software developer in training](https://pbs.twimg.com/profile_banners/826463676345491460/1662209642/600x200)
+![I am a full stack software developer in training](https://github.com/amon-cofie/amon-cofie/blob/main/Untitled%20design%20(3).gif)
 
 <br />
 
