@@ -1,10 +1,11 @@
 # <p align="center">My name is David! </p>
 
-![I am a full stack software developer in training](https://github.com/amon-cofie/amon-cofie/blob/main/Untitled%20design%20(3).gif)
+<!-- ![I am a full stack software developer in training](https://github.com/amon-cofie/amon-cofie/blob/main/Untitled%20design%20(3).gif)  -->
+<p align="center"> <img src="https://github.com/amon-cofie/amon-cofie/blob/main/Untitled%20design%20(3).gif" alt="David.dev" /> </p>
 
 <br />
 
-## Nice to meet you! 👋
+## <p align="center">Nice to meet you! 👋</p>
 
 #### I am a full stack software developer in training! ⚡💪
 
