@@ -44,7 +44,7 @@
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](amon-cofie.github.io/Mobile-first-Portfolio)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://amon-cofie.github.io/Mobile-first-Portfolio/)  
 
 
 
