@@ -59,15 +59,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amon-cofie)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amon-cofie&show_icons=true&count_private=true)  
 
-<br />
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amon-cofie)  
 
-<br />
+
 
 
 
@@ -78,10 +78,10 @@
 
 
 
-<br />
+
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=amon-cofie)
 
-<br />
+
 
 ![Profile views](https://gpvc.arturio.dev/amon-cofie)  
