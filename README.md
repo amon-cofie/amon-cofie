@@ -1,29 +1,53 @@
-# <p align="center">My name is David! </p>
+<h1 align="center">
+<img src="./Earth.gif" width="24px">
+Hello
+<img src="./Hi.gif" width="40px" />, I'm David 👨‍💻
+</h1>
+<p align="center"> <img src="https://github.com/amon-cofie/amon-cofie/blob/main/Untitled%20design%20(3).gif" alt="David.dev" /> </p>
+<h3 align="center">I'm currently a Student at Microverse.🌱
+</h3>
+
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=I%E2%80%99m+currently+learning+......;HTML.............;CSS.............;JavaScript..............;React...................;Ruby..................;RoR.......................;Cheers+and+Happy+Learning........"><img>
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Nice+meeting+you....;software+Engineer+from+Uganda;Pair-programming%2Cremote+work+devotee;Self+taught+developer;Happy+Learning+and+coding">
+</img> -->
+</p>
+<h3 align="center">Connect with me:
+<img src='./handshake.gif' width="100px">
+</h3>
+<p align="center">
+<a href="https://twitter.com/amon_cofie">
+  <img align="center" alt="Amon-Cofie David | Twitter" width="44px" height="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" >
+</a>
+
+<a href="https://www.linkedin.com/in/david-amon-cofie-2389ab241/">
+  <img align="center" alt="Amon-Cofie David | LinkedIn" width="44px" height="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+</p>
+
+
 
 <!-- ![I am a full stack software developer in training](https://github.com/amon-cofie/amon-cofie/blob/main/Untitled%20design%20(3).gif)  -->
-<p align="center"> <img src="https://github.com/amon-cofie/amon-cofie/blob/main/Untitled%20design%20(3).gif" alt="David.dev" /> </p>
+
 
 <br />
-
-## <p align="center">Nice to meet you! 👋</p>
-
-#### I am a full stack software developer in training! ⚡💪
 
 <!-- **About me**: I am a full stack software developer, trained and refined at [microverse.org](https://www.microverse.org/?grsf=swf84s), an online school that is committed to creating the next generation of skilled, ethical and diverse full stack developers while bridging the gap between the developed and developing territories of the globe. I am a problem solver at the core, with excellent communication and collaboration skills and capable of working in a team of different people from different cultures while being both professionally informal and formal. I am determined, focused and disciplined but of course I know when it's time to relax and have a beer with a friend! 🍻  -->
 
 <br />
 
+<img align="right" alt="GIF" src="./animation.gif" width="500" height="350" />
+
 - 🌱 I’m currently a student at [microverse.org](https://www.microverse.org/?grsf=swf84s)
 - 👯 I’m looking to collaborate on front end development projects
-- 🤔 I’m looking for help with Bootstrap and Sass
-- 💬 Ask me about anything!
-- 😄 Pronouns: He/him 🤝
+- 💬 Ask me about anything! I am happy to help!
 - ⚡ Fun fact: I am a crazy good table tennis player 🏓
 
-<br />
+
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
-<br />
+
 
 
 ## Skills | Languages | Tools
@@ -33,13 +57,14 @@
 <br />
 <!-- - 🔭 I’m currently working on this page.  -->
 
-## How to reach me
+### To reach me personally:
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/amon-cofie)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/david-amon-cofie-2389ab241/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/amon_cofie/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/amon_cofie)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](https://mail.google.com/mail/u/0/#inbox?compose=jrjtXPVtGXcDgqfMcKcWphPnwrKlZrkGWsLQvbQMwlMtVtVTKCzDtXxkvThxgSSXmFgkWxPC)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/+233557402129)  
 
-### Or visit my website
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](https://mail.google.com/mail/u/0/#inbox?compose=jrjtXPVtGXcDgqfMcKcWphPnwrKlZrkGWsLQvbQMwlMtVtVTKCzDtXxkvThxgSSXmFgkWxPC)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/+233557402129)  
+
+### Visit my website:
 
 
 
