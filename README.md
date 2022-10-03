@@ -39,8 +39,9 @@ Hello
 
 <img align="right" alt="GIF" src="./animation.gif" width="500" height="350" />
 
+- 💼 I am available for hire.
 - 🌱 I’m currently a student at [microverse.org](https://www.microverse.org/?grsf=swf84s)
-- 👯 I’m looking to collaborate on front end development projects
+- 👯 I’m looking to collaborate on any front end, back end or full stack
 - 💬 Ask me about anything! I am happy to help!
 - ⚡ Fun fact: I am a crazy good table tennis player 🏓
 
