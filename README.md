@@ -3,7 +3,7 @@
 Hello
 <img src="./Hi.gif" width="40px" />, I'm David 👨‍💻
 </h1>
-<p align="center"> <img src="https://github.com/amon-cofie/amon-cofie/blob/main/Untitled%20design%20(3).gif" alt="David.dev" /> </p>
+<p align="center"> <img src="https://github.com/amon-cofie/amon-cofie/blob/main/DAVID%20AMON-COFIE.gif" alt="David.dev" /> </p>
 <h3 align="center">I'm currently a Student at Microverse.🌱
 </h3>
 
