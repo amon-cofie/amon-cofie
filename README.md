@@ -4,17 +4,11 @@ Hello
 <img src="./Hi.gif" width="40px" />, I'm David 👨‍💻
 </h1>
 <p align="center"> <img src="https://github.com/amon-cofie/amon-cofie/blob/main/DAVID%20AMON-COFIE.gif" alt="David.dev" /> </p>
-<h3 align="center">I'm currently a Student at Microverse.🌱
+<h3 align="center">I'm currently a part time code reviewer at Microverse 💼
 </h3>
 
+<h3 align="center">Connect with me
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=I%E2%80%99m+currently+learning+......;HTML.............;CSS.............;JavaScript..............;React...................;Ruby..................;RoR.......................;Cheers+and+Happy+Learning........"><img>
-<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Nice+meeting+you....;software+Engineer+from+Uganda;Pair-programming%2Cremote+work+devotee;Self+taught+developer;Happy+Learning+and+coding">
-</img> -->
-</p>
-<h3 align="center">Connect with me:
-<img src='./handshake.gif' width="100px">
 </h3>
 <p align="center">
 <a href="https://twitter.com/amon_cofie">
@@ -25,6 +19,7 @@ Hello
   <img align="center" alt="Amon-Cofie David | LinkedIn" width="44px" height="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 </p>
+<p align="center"><img src='./handshake.gif' width="100px"></p>
 
 
 
@@ -33,15 +28,15 @@ Hello
 
 <br />
 
-<!-- **About me**: I am a full stack software developer, trained and refined at [microverse.org](https://www.microverse.org/?grsf=swf84s), an online school that is committed to creating the next generation of skilled, ethical and diverse full stack developers while bridging the gap between the developed and developing territories of the globe. I am a problem solver at the core, with excellent communication and collaboration skills and capable of working in a team of different people from different cultures while being both professionally informal and formal. I am determined, focused and disciplined but of course I know when it's time to relax and have a beer with a friend! 🍻  -->
+**About me**: I am a problem solver at the core, with excellent communication and collaboration skills and capable of working in a team of different people from different cultures while being both formal and professionally informal. I am determined, focused and disciplined but of course I know when it's time to relax and have a beer with a friend! 🍻 
 
 <br />
 
 <img align="right" alt="GIF" src="./animation.gif" width="500" height="350" />
 
 - 💼 I am available for hire.
-- 🌱 I’m currently a student at [microverse.org](https://www.microverse.org/?grsf=swf84s)
-- 👯 I’m looking to collaborate on any front end, back end or full stack
+- 🌱 I’m studied at [microverse.org](https://www.microverse.org/?grsf=swf84s)
+- 👯 I’m looking to collaborate on any front-end, back-end or full-stack projects
 - 💬 Ask me about anything! I am happy to help!
 - ⚡ Fun fact: I am a crazy good table tennis player 🏓
 
@@ -65,23 +60,12 @@ Hello
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](https://mail.google.com/mail/u/0/#inbox?compose=jrjtXPVtGXcDgqfMcKcWphPnwrKlZrkGWsLQvbQMwlMtVtVTKCzDtXxkvThxgSSXmFgkWxPC)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/+233557402129)  
 
-### Visit my website:
-
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://amon-cofie.github.io/Mobile-first-Portfolio/)  
-
-
-
-
-
 <br />
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=amon-cofie)](https://github.com/ryo-ma/github-profile-trophy)
 
-<br />
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amon-cofie)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -91,14 +75,7 @@ Hello
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amon-cofie)  
-
-
-
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/amon-cofie)  
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/amon-cofie)   -->
 
 ![GitHub metrics](https://metrics.lecoq.io/amon-cofie)  
 
