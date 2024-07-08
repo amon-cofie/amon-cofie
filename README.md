@@ -4,7 +4,7 @@ Hello
 <img src="./Hi.gif" width="40px" />, I'm David 👨‍💻
 </h1>
 <p align="center"> <img src="https://github.com/amon-cofie/amon-cofie/blob/main/DAVID%20AMON-COFIE.gif" alt="David.dev" /> </p>
-<h3 align="center">I'm currently a part time code reviewer at Microverse 💼
+<h3 align="center">I'm currently a senior software developer at Yazi 💼
 </h3>
 
 <h3 align="center">Connect with me
@@ -35,7 +35,7 @@ Hello
 <img align="right" alt="GIF" src="./animation.gif" width="500" height="350" />
 
 - 💼 I am available for hire.
-- 🌱 I’m studied at [microverse.org](https://www.microverse.org/?grsf=swf84s)
+- 🌱 I studied at [microverse.org](https://www.microverse.org/?grsf=swf84s)
 - 👯 I’m looking to collaborate on any front-end, back-end or full-stack projects
 - 💬 Ask me about anything! I am happy to help!
 - ⚡ Fun fact: I am a crazy good table tennis player 🏓
