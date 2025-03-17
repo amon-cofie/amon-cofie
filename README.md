@@ -4,7 +4,7 @@ Hello
 <img src="./Hi.gif" width="40px" />, I'm David 👨‍💻
 </h1>
 <p align="center"> <img src="https://github.com/amon-cofie/amon-cofie/blob/main/DAVID%20AMON-COFIE.gif" alt="David.dev" /> </p>
-<h3 align="center">I'm currently a senior software developer at Yazi 💼
+<h3 align="center">I'm currently a software engineer at Yazi 💼
 </h3>
 
 <h3 align="center">Connect with me
