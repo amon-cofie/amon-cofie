@@ -34,7 +34,7 @@ I approach engineering like a conversation: listening deeply to the problem, ask
 ### Languages I know well
 
 - TypeScript / JavaScript
-- Dart (Flutter's language)
+- Dart (Flutter)
 - Ruby
 
 ### Languages I am learning
